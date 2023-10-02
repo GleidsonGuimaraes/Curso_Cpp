@@ -9,7 +9,7 @@ int main(){
     int numInteiro = 0; // recebe números inteiros
     char letra = 'B'; // declarada entre aspas simples 'B'
     double decimal = 5.2; // decimal com maior precisão ex: 2.4999999
-    float decimal2 = 5.3; // decimal com menor precisão ex: 2.5
+    // float decimal2 = 5.3; // decimal com menor precisão ex: 2.5
     bool verdadeiroFalso = true; // recebe um valor booleano true ou false
     string nome = "Bruno"; // declarada entre aspas duplas "Bruno"
 
